@@ -26,7 +26,7 @@ shipment is assigned a destination port ("PortofDischarge") and a vessel ("Vesse
 last column you will find the arrival time in days ("Time2Arrival"). This represents the time
 between the event and the target event. The target event is the receipt of the goods (EventName
 = Goods Receipt Dock) at the Tuscaloosa plant (EventLocation =
-urn:jaif:id:loc:25LUN498999044W0138). A translation of the system specific coding of event
+urn : jaif : id : loc : 25LUN498999044W0138). A translation of the system specific coding of event
 locations into plain text is in [event_locations.csv](https://github.com/Ben93kie/TrackAndTrace/files/10034251/event_locations.csv).
 
 # Task

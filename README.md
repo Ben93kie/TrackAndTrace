@@ -37,3 +37,11 @@ data analysis, you have been asked to prepare and analyze the data provided in t
 explorative data analysis in a first step. Afterwards you are asked to develop and evaluate first
 models that allow the prediction of arrival times. How would you plan the next steps?
 
+# How to:
+
+Click on the jupyter notebook 'DataExploration.ipynb'.
+Click on the 'Colab' icon.
+Let Google start in instance for you (account required).
+Upload the two csv-files ('data.csv', 'event_locations.csv') to the instance.
+Run all
+

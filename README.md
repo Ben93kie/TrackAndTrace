@@ -45,3 +45,5 @@ Let Google start in instance for you (account required).
 Upload the two csv-files ('data.csv', 'event_locations.csv') to the instance.
 Run all
 
+Note that you need to add your google api key in order to get Google Maps visualizations. Otherwise, just ignore the visualization cell and move on.
+
